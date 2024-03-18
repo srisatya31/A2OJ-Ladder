@@ -17,14 +17,14 @@
 |<ul><li>- [ ✓] Done</li></ul>|10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
 |<ul><li>- [ ✓] Done</li></ul>|11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
 |<ul><li>- [ ✓] Done</li></ul>|12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
+|<ul><li>- [✓] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
+|<ul><li>- [✓] Done</li></ul>|14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
+|<ul><li>- [✓ ] Done</li></ul>|15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
+|<ul><li>- [✓ ] Done</li></ul>|16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
+|<ul><li>- [✓ ] Done</li></ul>|17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
+|<ul><li>- [✓ ] Done</li></ul>|18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
+|<ul><li>- [✓ ] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
+|<ul><li>- [✓ ] Done</li></ul>|20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
